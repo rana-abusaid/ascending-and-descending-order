@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project_SortChars.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(21,14): warning C4013: 'printInArray' undefined; assuming extern returning int
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(22,25): warning C4013: 'printIntDescendingOrder' undefined; assuming extern returning int
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(28,16): warning C4013: 'printCharArray' undefined; assuming extern returning int
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(29,26): warning C4013: 'printDescendingCharArray' undefined; assuming extern returning int
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(15,7): warning C4101: 'string': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(11,19): warning C4101: 'j': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(11,16): warning C4101: 'i': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(61,9): warning C4101: 'j': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(61,6): warning C4101: 'i': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(61,12): warning C4101: 'temp': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(82,9): warning C4101: 'j': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(82,6): warning C4101: 'i': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(82,12): warning C4101: 'temp': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(132,9): warning C4101: 'j': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(132,6): warning C4101: 'i': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(132,12): warning C4101: 'temp': unreferenced local variable
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(56): warning C4716: 'printDescendingCharArray': must return a value
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(44): warning C4716: 'printCharArray': must return a value
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(113): warning C4716: 'printInArray': must return a value
+C:\C Projects\Project_SortChars\Project_SortChars\main.c(127): warning C4716: 'printIntDescendingOrder': must return a value
+  Project_SortChars.vcxproj -> C:\C Projects\Project_SortChars\Debug\Project_SortChars_SortInts.exe
